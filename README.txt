@@ -1,0 +1,1 @@
+This repository contains the practical solutions for chapters 7-11 from the book All of Statistic by Larry A. Wasserman.
